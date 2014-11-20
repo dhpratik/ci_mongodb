@@ -4,6 +4,7 @@ ci_mongodb
 connection with mongodb and ci
 
 before starting with this code there are few pre-requisits to be satisfied with the php platform
+
 1. download the latest zip file from 'https://s3.amazonaws.com/drivers.mongodb.org/php/index.html' 
 2. based on the version of php you are having copy the .dll file from the zip file downloaded to 'php/ext' folder of your php installation
 3. copy the name of the .dll file and include it into php.ini file as 
